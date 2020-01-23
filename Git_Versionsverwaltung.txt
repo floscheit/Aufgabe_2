@@ -1,1 +1,5 @@
 Mit commit werden alle Veränderungen an einer Datei lokal gespeichert. 
+
+Durch den push befehl werden alle ausgewählten Dateien die zu diesem Zeitpunkt lokal gespeichert
+sind aus dem lokalen speicher online gestellt.
+
