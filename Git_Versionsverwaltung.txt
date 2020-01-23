@@ -1,1 +1,1 @@
-haallo
+Mit commit werden alle Veränderungen an einer Datei lokal gespeichert. 
